@@ -1,7 +1,7 @@
-##  Day 3 homework for the DO288 bootcamp
+##  Chapter 1 homework for the DO288 bootcamp
 
 Clone this git repo to your local disk and then use that to create a publicly visible git rep on github.com (the public one, not the IBM enterprise git repo).
-It is possible to get this working from the IBM enterprise git repo, but that is a day 4 excercise. After this code is in the github.com repo, run the 
+It is possible to get this working from the IBM enterprise git repo, but that is a separate excercise. After this code is in the github.com repo, run the 
 following instructions.
 
 ```
