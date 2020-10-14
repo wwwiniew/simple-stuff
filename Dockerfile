@@ -4,6 +4,6 @@ COPY target/simple-stuff.war /config/dropins/
 COPY config/server.xml /config/
 COPY config/server.env /config/
 USER root
-RUN mkdir /my-special-folder
+#RUN mkdir target/my-special-folder
 
-COPY  Dockerfile /my-special-folder
+#COPY  Dockerfile target/my-special-folder
